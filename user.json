@@ -1,0 +1,29 @@
+{
+	"users":[
+		{
+			"name":"Shamim1",
+			"email":"shamimsjava1@gmail.com",
+			"phone":"01723795366"
+		},
+		{
+			"name":"Shamim2",
+			"email":"shamimsjava2@gmail.com",
+			"phone":"01723795362"
+		},
+		{
+			"name":"Shamim3",
+			"email":"shamimsjava3@gmail.com",
+			"phone":"01723795363"
+		},
+		{
+			"name":"Shamim4",
+			"email":"shamimsjava4@gmail.com",
+			"phone":"01723795364"
+		},
+		{
+			"name":"Shamim5",
+			"email":"shamimsjava5@gmail.com",
+			"phone":"01723795365"
+		}
+	]
+}
